@@ -1,3 +1,9 @@
+/**
+ * Funtion organize gifts
+ * @param {string} gifts
+ * @returns string
+ */
+
 function organizeGifts (gifts) {
   // Code here
   let string = ''
